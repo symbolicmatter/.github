@@ -7,8 +7,6 @@ not focused on shipping products quickly, but on understanding *how* and *why* s
 
 Most of the work published here is exploratory, opinionated, and incomplete by design.
 
----
-
 ## What We Explore
 
 Symbolic Matter focuses on questions that tend to sit *between* established disciplines:
@@ -20,8 +18,6 @@ Symbolic Matter focuses on questions that tend to sit *between* established disc
 - How humans and AI can collaborate without eroding conceptual integrity  
 
 Rather than treating code as the primary artifact, we explore **context, structure, and reasoning** as first-class concerns.
-
----
 
 ## Areas of Work
 
@@ -35,8 +31,6 @@ Projects and experiments published under Symbolic Matter may include:
 
 Some repositories are meant to be *used*.  
 Others are meant to be *thought with*.
-
----
 
 ## Philosophy
 
@@ -54,8 +48,6 @@ This work favors:
 
 Not because it is fashionable, but because it scales better — especially in AI-heavy environments.
 
----
-
 ## Status and Expectations
 
 All work here should be considered **experimental**.
@@ -65,8 +57,6 @@ All work here should be considered **experimental**.
 - Not everything is intended for direct adoption
 
 If something proves wrong or ineffective, that is considered progress, not failure.
-
----
 
 ## About
 
